@@ -1,0 +1,5 @@
+.Footer > small {
+    display: flex;
+    justify-content: flex-start;
+    padding: 2em;
+}
